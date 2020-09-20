@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ebc8315-34d1-4f82-b20d-19d98c5a3dad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hdiBwpilxWPfK1L9F6G1K2VfLl" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Videos/RoostMIcroservice-master" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ebc8315-34d1-4f82-b20d-19d98c5a3dad" name="Default Changelist" comment="" />
+      <created>1600347237076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600347237076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="273" width="293" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600596529313">
+      <screen x="38" y="21" width="1328" height="747" />
+    </state>
+    <state x="554" y="273" width="293" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/38.21.1328.747@38.21.1328.747" timestamp="1600596529313" />
+    <state x="289" y="39" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1600596527165">
+      <screen x="38" y="21" width="1328" height="747" />
+    </state>
+    <state x="289" y="39" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/38.21.1328.747@38.21.1328.747" timestamp="1600596527165" />
+    <state x="489" y="139" width="424" height="479" key="FileChooserDialogImpl" timestamp="1600600285971">
+      <screen x="38" y="21" width="1328" height="747" />
+    </state>
+    <state x="489" y="139" width="424" height="479" key="FileChooserDialogImpl/38.21.1328.747@38.21.1328.747" timestamp="1600600285971" />
+  </component>
+</project>
